@@ -53,7 +53,7 @@ export default function Home() {
         
         <div id="projects" className="scroll-mt-24">
           <h2 className="text-3xl md:text-4xl font-headline text-center mb-12 text-neon-purple tracking-wider">
-              <span className="text-neon-green">&gt; </span>C++ Project Showcase
+              <span className="text-neon-green">&gt; </span>Projects & Sites
           </h2>
           <ProjectShowcaseSection />
         </div>
